@@ -1,0 +1,31 @@
+@font-face{
+  font-family:'nimbusmono';
+  src: url('../css/fonts/nimbusmono-regular.otf'); 
+}
+
+body {
+	  	background-image: url("../img/cover.jpg");
+  		background-repeat: no-repeat;
+  		background-size: cover;
+  		 font-family:'nimbusmono';
+
+
+}
+
+
+
+.container{
+	color:fff;
+}
+
+.imgHolder{
+	width: 350px;
+	height: 350px;
+	background-color: #fff;
+	background-image: url("../img/cvrframe.jpg");
+	background-size: cover;
+
+	padding: 25px;
+	margin: 10px;
+
+}
